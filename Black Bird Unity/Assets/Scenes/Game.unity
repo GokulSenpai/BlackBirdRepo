@@ -744,6 +744,7 @@ GameObject:
   - component: {fileID: 1443511825}
   - component: {fileID: 1443511827}
   - component: {fileID: 1443511828}
+  - component: {fileID: 1443511829}
   m_Layer: 0
   m_Name: Bird
   m_TagString: Untagged
@@ -809,7 +810,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1443511824}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.6653249, y: -0.1487678, z: 59.988525}
+  m_LocalPosition: {x: -1.7, y: 1.07, z: 59.988525}
   m_LocalScale: {x: 0.17, y: 0.17, z: 0.25}
   m_Children: []
   m_Father: {fileID: 1295933111}
@@ -852,6 +853,21 @@ CircleCollider2D:
   m_Offset: {x: 0.0000009536743, y: -0.000000059604645}
   serializedVersion: 2
   m_Radius: 2.49
+--- !u!114 &1443511829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443511824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1221cca4c5331374198ea05c376dce97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tapForce: 249
+  tiltSmooth: 1.7
+  startPos: {x: -1.7, y: 1.07, z: 0}
 --- !u!1 &1545379491
 GameObject:
   m_ObjectHideFlags: 0
@@ -1390,7 +1406,7 @@ PrefabInstance:
     - target: {fileID: 790524298159605393, guid: 14f5f6c273a22164291a4b9a9d86e7cc,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1.75
       objectReference: {fileID: 0}
     - target: {fileID: 790524298159605393, guid: 14f5f6c273a22164291a4b9a9d86e7cc,
         type: 3}
