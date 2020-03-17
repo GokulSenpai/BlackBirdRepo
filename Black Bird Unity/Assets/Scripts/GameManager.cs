@@ -51,6 +51,7 @@ public class GameManager : MonoBehaviour
 
     void OnCountDownFinished()
     {
+        //TRY PUTTING DISSOLVE EFFECT HERE
         SetPageState(PageState.None);
         OnGameStarted();
         score = 0;
