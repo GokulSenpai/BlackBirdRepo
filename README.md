@@ -16,7 +16,7 @@ A black and white take on the game Flappy Bird.
 
 -Observer Pattern.
 
-![](BlackBirdDemo.gif).
+![](BlackBirdDemo.gif)
 
 # Sources:
 
