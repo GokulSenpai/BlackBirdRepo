@@ -22,5 +22,9 @@ A black and white take on the game Flappy Bird.
 
 -Art: Made in GIMP
 
--Music: Initial sounds Bfxr, Mixed and Mastered in FL Studio 20
+-Assets: https://www.flaticon.com/
+
+-SFX: Initial sounds Bfxr, Mixed and Mastered in FL Studio 20
+
+-Song Used: "Pump" by Lost Years https://www.youtube.com/watch?v=uEZPvkVngzc
 
