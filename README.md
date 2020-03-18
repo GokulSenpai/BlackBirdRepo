@@ -4,7 +4,7 @@ A black and white take on the game Flappy Bird.
 
 # Implementations: 
 
--Player Mechanics
+-Player Mechanics.
  
 -UI.
 
@@ -20,11 +20,11 @@ A black and white take on the game Flappy Bird.
 
 # Sources:
 
--Art: Made in GIMP
+-Art: Made in GIMP.
 
 -Assets: https://www.flaticon.com/
 
--SFX: Initial sounds Bfxr, Mixed and Mastered in FL Studio 20
+-SFX: Initial sounds Bfxr, Mixed and Mastered in FL Studio 20.
 
 -Song Used: "Pump" by Lost Years https://www.youtube.com/watch?v=uEZPvkVngzc
 
