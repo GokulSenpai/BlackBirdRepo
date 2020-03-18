@@ -2,8 +2,7 @@
 
 A black and white take on the game Flappy Bird.
 
-Implementations: 
-------------------
+# Implementations: 
 
 * Player Mechanics.
  
@@ -19,8 +18,7 @@ Implementations:
 
 ![](BlackBirdDemo.gif)
 
-Sources:
-----------
+# Sources:
 
 * Art: Made in GIMP.
 
